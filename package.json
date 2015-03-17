@@ -1,0 +1,19 @@
+{
+  "name": "flux-play",
+  "version": "0.0.1",
+  "description": "Getting to know Flux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "matt@mnorrish.co.nz",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "^9.0.3",
+    "gulp": "^3.8.11",
+    "gulp-sourcemaps": "^1.5.0",
+    "reactify": "^1.1.0",
+    "vinyl-source-stream": "^1.1.0",
+    "vinyl-transform": "^1.0.0"
+  }
+}
